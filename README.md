@@ -1,6 +1,8 @@
 # toasty-note
 Raspberry Pi-powered note taking program, compatible with email and camera. 
 
+toasty-note will be written in Python 3.4. 
+
 So far, only a very limited camera function is available for use with
 the Raspberry Pi camera and Raspberry Pi board (1, 2, or 3).  
 
