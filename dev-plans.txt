@@ -1,0 +1,28 @@
+Note Features
+
+  Open saved text files
+  Write to text files
+  Save as functionality
+  New text files (clear screen)
+  Multiple tabs
+  Read files in directory
+  Create note folders
+  Display jpgs and notes together
+
+Email Functionality
+
+  Email txt files, jpgs, folder structure
+  send simple text based messages
+
+Schedule Functionality
+
+  write notes to calendar, time them to specific times, be able to send text/email messages to remind
+
+Camera functionality 
+
+  take pics
+  GUI mod
+  name pics
+  desired number of pics
+  change settings
+  
