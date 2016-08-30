@@ -53,7 +53,7 @@ def pic_capture():
         sleep(2)
         camera.capture(picture_name + str(picture_numerator_counter) + '.jpg')
         picture_numerator_counter += 1
-    # Sleep, take a pic, save, increase the number counter of pics taken
+    # Sleep, take a picture, save, increase the number counter of pics taken
 
     camera.stop_preview()
     # Stop cam preview
